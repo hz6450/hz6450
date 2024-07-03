@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align=center>
-	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Spring&logoColor=black">
+	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=black">
     <br>
 </div>
 
